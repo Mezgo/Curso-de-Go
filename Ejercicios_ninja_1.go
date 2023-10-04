@@ -12,7 +12,7 @@ func main() {
 	// practice_2()
 	// practice_3()
 	// practice_4()
-	// practice_5()
+	practice_5()
 }
 
 // practice #1
