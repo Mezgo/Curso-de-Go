@@ -61,7 +61,7 @@ func slice() {
 }
 
 func multidimensional_slice() {
-	et := []string{"Sebastian", "Gomez", "Tenis", "Futball", "F1"}
+	et := []string{"Sebastian", "Gomez", "Tennis", "soccer", "F1"}
 	fmt.Println(et)
 
 	jl := []string{"Karen", "Bolanos", "Ultimate", "Basketball", "Volleyball"}
